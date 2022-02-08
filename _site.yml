@@ -1,0 +1,6 @@
+name: "our-website"
+navbar:
+  title: "Our Collaborative Webiste"
+  left:
+    - text: "Cars"
+      href: index.html
